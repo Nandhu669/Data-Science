@@ -32,39 +32,37 @@
 # #8. Print a multiplication Table with one number for 1-10 with 1*1 = 1 format
 # num = int(input("Enter you multiplying number: "))
 # for i in range(1,11) :
-#    print(f"{i} x {num} = {i*num}")
+# print(f"{i} x {num} = {i*num}")
 # else :
-#    print("Multiplication completed")
-    
+# print("Multiplication completed")
+
 # #9. print factorial of a number
 # num = int(input("Enter a factorail: "))
 # sum = 1
 # for i in range(num , 1 ,-1):
-#     sum = sum * i
+# sum = sum * i
 # print("Factorail", sum)
 
 # #10.fibinocci series
 # num = int(input("Enter a number: "))
 # a,b = 0,1
 # for i in range (num) :
-#     print(a)
-#     c = a + b
-#     a = b
-#     b = c
+# print(a)
+# c = a + b
+# a = b
+# b = c
 
-#11. TO check prime or not
-
+# #11. TO check prime or not
 
 # #12 To loop '*' pattern printing
 # rows = int(input("Enter a level: "))
 # for i in range(1,rows+1) :
-#     print("$"*i)
+# print("$"*i)
 
-#13. to create this below
-#          1
-#        2   2
-#      3   3    3
-#    4   4    4   4  
+# #13. to create this below
+# 1
+# 2   2
+# 3   3    3
+# 4   4    4   4  
 
 
-    
