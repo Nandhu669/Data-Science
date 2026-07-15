@@ -40,8 +40,8 @@
 # num = int(input("Enter a factorail: "))
 # sum = 1
 # for i in range(num , 1 ,-1):
-# sum = sum * i
-# print("Factorail", sum)
+#  sum = sum * i
+#  print("Factorail", sum)
 
 # #10.fibinocci series
 # num = int(input("Enter a number: "))

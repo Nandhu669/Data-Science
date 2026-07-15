@@ -1,8 +1,8 @@
-#dictionary
-d = {"Name":"Nandhu",
-     "Age":22,
-     "City":"Kollam",
-     "Hobby":"Football"}
+# # dictionary
+# d = {"Name":"Nandhu",
+#      "Age":22,
+#      "City":"Kollam",
+#      "Hobby":"Football"}
 # print(d)
 # print(d["Name"])    #to get value
 # print(len(d))
@@ -38,12 +38,12 @@ d = {"Name":"Nandhu",
 #     print(d)
 
 
-#problems
-x = [10,2,5,[2,4,6],21,48]
-y = {1:"A",2:"B",4:{'Vowels':{'a','e','i','o','u'}},3:'c'}
-print(x[3][1])
-print(y[4]['Vowels'])
-m = y[4]['Vowels']
-print(m)
+# #problems
+# x = [10,2,5,[2,4,6],21,48]
+# y = {1:"A",2:"B",4:{'Vowels':{'a','e','i','o','u'}},3:'c'}
+# print(x[3][1])
+# print(y[4]['Vowels'])
+# m = y[4]['Vowels']
+# print(m)
 
 
